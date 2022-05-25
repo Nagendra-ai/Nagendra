@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nagendra Ganni
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Reactjs
+- 💞️ I’m looking to collaborate on FrontEnd Projects
+- 📫 How to reach me - naguganni7@gmail.com 
